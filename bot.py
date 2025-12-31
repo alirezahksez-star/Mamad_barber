@@ -4,8 +4,6 @@ import query
 from dotenv import load_dotenv
 import flask
 from flask import request
-
-
 # ----------------- تنظیمات -----------------
 ADMINS = ['1246405986']  # آیدی تلگرام ادمین
 user_state = {}  # state کاربر
