@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+python-dotenv
+Flask
+gunicorn
+psycopg2-binary
+
+
+
+
